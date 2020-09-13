@@ -1,0 +1,25 @@
+@relation BaseballRecruitment
+
+@attribute 'On Base Percentage' real 
+@attribute 'Batting Average' real 
+@attribute 'Slugging Percentage' real
+@attribute 'Total Bases' real
+@attribute 'Plate Appearance' real
+@attribute 'Drafted?' { 'y', 'n'} 
+@data
+.396, .332, .568, 142, 250, 'y'
+.461, .330, .603, 135, 224, 'y'
+.371, .285, .418, 69, 165, 'y'
+.406, .305, .485, 81, 167, 'y'
+.333, .259, .318, 54, 170, 'n'
+.296, .248, .336, 50, 149, 'y'
+.317, .236, .292, 47, 161, 'y'
+.387, .227, .266 ,54, 203, 'y'
+.481, .349, .605 ,26, 43, 'n'
+.500, .333, .333 ,1, 3, 'n'
+.400, .302, .419 ,18, 43, 'y'
+.351, .290, .377 ,26, 69, 'y'
+.362, .261, .311 ,37, 119, 'y'
+.333, .259, .541 ,46, 85, 'y'
+.250, .250, .750 ,6, 8, 'n'
+.352, .227, .364 ,32, 88, 'y'
